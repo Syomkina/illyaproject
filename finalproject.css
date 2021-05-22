@@ -1,0 +1,189 @@
+.header{
+    width: 1020px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+    align-items: center;
+}
+.polygon{
+    width:71px;
+    height:70px;
+}
+.M{
+    font-family: sans-serif;
+    position: relative;
+    right: 44px; 
+    color: white;
+    font-size: 21px;
+}
+.Minto{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 39px;
+    margin:0 ;
+    color:rgb(95, 16, 95);
+    display: flex;
+    align-items: center;
+}
+.logos1{
+    display: flex;
+    align-items: center;
+}
+.menu{
+    width:60%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 52px;
+}
+.mini_picture{
+    font-size: 19px;
+}
+.fourthli{
+    position: relative;
+    top:5px
+}
+li{font-family: Montserrat;
+   font-size: 19px;
+}
+.big_picture{
+    width: 1019px;
+    height: 485px;
+    margin:0 auto;
+    background-image: url(./images/Minto.png.png); 
+    background-position-x: -25px;
+    background-position-y: -99px;
+}
+.Minto1{
+    position:relative;
+    left: 367px;
+    top: 159px;
+}
+.textunderMinto{
+    width: 606px;
+    height: 30px;
+    position: relative;
+    right: 90px;
+    top: 209px;
+}
+.textunderBigPicture{
+    margin:0 auto;
+    width: 999px;
+    height: 134px; 
+}
+.textunderBigPicture1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    font-size: 23px;
+    width: 905px;
+    height: 94px;
+    text-align: center;
+    width:100%;
+    padding:0 60px;
+    box-sizing: border-box;
+    position: relative;
+    top: 30px;
+    border-top: 1px solid rgb(190, 189, 189) ;
+    border-bottom: 1px solid grey;
+}
+.latyn{
+    font-family: 'Hind Vadodara', sans-serif;
+    font-size: 31px;
+    color: rgb(82, 82, 82);
+}
+span{
+    font-weight: bold;
+    color: blueviolet;
+}
+.firstRectangle{
+    position: relative;
+    top: 100px;
+} 
+.secondRectangle{
+    position: relative;
+    top: 100px;
+    left: 916px
+}
+.small_text{
+    font-size: 15px;
+    line-height: 30px;
+}
+.left{
+    position: relative;
+    right: 35px;
+    top: 83px;
+}
+.right{
+    position: relative;
+    left: 884px;
+    top: 83px;
+}
+.long_text{
+    width: 700px;
+    height: 182px;
+    font-family: 'Roboto', sans-serif;
+}
+.section_text {
+    display: flex;
+    justify-content: space-between;
+    width: 1020px;
+    margin: 75px auto 50px auto;
+}
+.circle{
+    width: 271px;
+    height: 271px;
+    border-radius: 270px;
+    object-fit: none;
+    border: 10px solid lightgrey;
+}
+.circle1{
+    width:271px;
+    height: 271px;
+    object-fit: none;
+}
+.Where_We_Have_Been_Featured{
+    width: 1019px;
+    height:17px;
+    position: relative;
+    left: 450px;
+    top: 36px;
+}
+.container{
+    background-image: url(./images/Layer\ 6@1X.png);
+    width: 1018px;
+    height: 71px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    position: relative;
+    top: 76px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 1020px;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+}
+.ceint_logos{
+    position: relative;
+    top: 19px;
+}
+.all_rights{
+    position: relative;
+    width:240px;
+    height: 14px;
+}
+.soc_seti{
+    position: relative;
+    top: 132px;
+}
+.welcome{
+    display: flex;
+    align-items: flex-end;
+}
